@@ -7,7 +7,7 @@ public class examplespawn : MonoBehaviour
 	void Start()
 	{
 			
-		InvokeRepeating("spawningsugar", 2, 0.3F);
+		InvokeRepeating("spawningsugar", 0, 0.5F);
 
 	}
 
