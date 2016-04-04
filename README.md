@@ -1,6 +1,6 @@
-# COMP770 Paper Files
+# COMP770 Assignment 1 - Rube Goldberg Machine
 
-Will be placing files here throughout the semester
+Source for a marble machine written with c# and the Unity game engine.
 
 Files created for the COMP770 Virtual and Immersive Environments paper at Auckland University of Technology
 
